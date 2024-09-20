@@ -1,9 +1,6 @@
 void setup() {
   size(500, 500);  //feel free to change the size
   noLoop(); //stops the draw() function from repeating
-void setup() {
-  size(500, 500);
-}
 
 void draw() {
   background (0, 0, 0);
